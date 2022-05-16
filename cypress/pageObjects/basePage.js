@@ -41,6 +41,7 @@ class BasePage {
     static closeAdvert() {
       return cy.get("#close-fixedban").should("be.visible").click();
     }
+    
   }
   
   export default BasePage;
