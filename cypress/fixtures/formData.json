@@ -1,0 +1,16 @@
+{
+  "firstName": "Reinis",
+  "lastName": "Krumins",
+  "email": "s9_krumin_r@venta.lv",
+  "gender": "Male",
+  "mobileNumber": "12345678",
+  "dateMonth": "February",
+  "dateYear": "1930",
+  "dateDay": "28",
+  "subject": "Economics",
+  "hobbie": "Music",
+  "image": "image.jpg",
+  "currentAddress": "Panchkuian Road, Palika Niketan, New Delhi, Delhi 110001, India",
+  "state": "NCR",
+  "city": "Delhi"
+}
